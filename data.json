@@ -1,0 +1,54 @@
+{
+    "template":{
+        "logic_gate": {
+            "color": "000000",
+            "controller": {
+              "active": false,
+              "controllers": null,
+              "id": 652,
+              "joints": null,
+              "mode": 0
+            },
+            "pos": {
+              "x": 0,
+              "y": -13,
+              "z": 3
+            },
+            "shapeId": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+            "xaxis": -3,
+            "zaxis": -1
+        },
+        "blueprint_file":{
+            "bodies": [
+                {
+                    "childs": [
+
+                    ]
+                }
+                
+            ],
+            "version": 4
+        },
+        "controllers": 
+            [
+                {"id":69}
+            ]
+            
+        
+    },
+    "settings": {
+        "creation_overwrite": false,
+        "rom_block": {
+            "color": "#000000",
+            "pos": [-3,-1,2]
+        },
+        "input_block_or": {
+            "color": "#FF0000",
+            "pos": [-3,-2,2]
+        },
+        "input_block_nor": {
+            "color": "#0000FF",
+            "pos": [-3,-2,2]
+        }
+    }
+}
